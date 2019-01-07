@@ -25,7 +25,7 @@ function play(connection, msg){
 }
 client.on('ready', () => {
   console.log(`BOT: ${client.user.tag} have logged in!`);
-  client.user.setGame("I :heart: Music")
+  client.user.setGame("I ♥ Music")
   //client.user.setStatus("Offline")
 });
 

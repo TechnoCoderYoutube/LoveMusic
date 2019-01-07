@@ -1,0 +1,19 @@
+{
+  "name": "lovemusic",
+  "version": "0.0.1",
+  "description": "love music bot by Techno Coder",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Techno Coder",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "discord.js-arbitrary-ffmpeg": "^1.0.0",
+    "ffmpeg": "0.0.4",
+    "opusscript": "0.0.6",
+    "tar": "^4.4.4",
+    "ytdl-core": "^0.20.4"
+  }
+}
